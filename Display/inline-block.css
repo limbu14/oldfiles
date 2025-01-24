@@ -1,0 +1,26 @@
+.card{
+ width: 650px;
+ height: 650px;   
+}
+
+.card img{
+    width: 100%;
+    height: 100%;
+}
+.picture{
+    //display: inline-block;
+}
+
+.picture .card{
+    height: 350px;
+    width: 350px;
+    display: inline-blo;
+    
+}
+
+.picture .card img{
+    height: 100%;
+    width: 100%;
+    
+    
+}

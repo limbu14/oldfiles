@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+
+.box{
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    background-color: gray;
+}
+
+.clearfix::after{
+    content:"";
+    clear: both;
+    display: table;
+}
+
+#box1{
+    background-color: #bbb;
+}z
+
+#box2{
+    background-color: #ccc;
+}
+
+#box3{
+    background-color: #ddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

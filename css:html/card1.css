@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: 100%;
+    height: auto;
+    background-color: lightgray;
+    display: flex;
+    margin: auto;
+   justify-content:center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.card{
+    width: 250px;
+    
+    background-color: gray;
+    margin: 20px;
+    
+
+    
+}
+.card h1{
+    padding: 30px;
+    align-items: center;
+}
+
+img{
+    width: 100%;
+    object-fit:fill;
+}
+
+

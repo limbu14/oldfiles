@@ -1,0 +1,37 @@
+.header{
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    color: whitesmoke;
+}
+
+ .header .nav1{
+    height: 20px;
+    background-color: lightgray;
+    padding: 20px;
+    color: gray;
+}
+
+
+.section1{
+    background-color: gray;
+    text-align: center;
+    color: whitesmoke;
+    padding: 10px;
+    margin-top: 10px;
+    width: 70%; 
+}
+
+.article .header{
+    padding: 10px;
+    background-color: red;
+   
+}
+.article .para p{
+    padding: 50px;
+    background-color: #864f4f;
+}
+
+
+
+

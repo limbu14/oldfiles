@@ -1,0 +1,109 @@
+
+*{
+    margin: 0;
+}
+
+
+.card{
+    width: 310px;
+    margin: 20px;
+}
+
+.title{
+    background-color: rgb(244, 127, 187);
+
+}
+
+.para{
+    background-color: rgb(246, 195, 238);
+    padding: 10px;
+    
+}
+
+ .card img{
+    width :100%;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card1{
+    width: 500px;
+   box-sizing: border-box;
+    border:  5px solid ;
+        
+    
+}
+.artical{
+    width: 500px;
+  overflow:hidden;
+ 
+
+
+}
+
+  .title1{
+    background-color: rgb(242, 132, 30);
+    padding: 30px;
+    
+    
+}
+
+.artical .para1 p{
+    background-color: rgb(250, 180, 123);
+    float: left;
+
+    
+   
+  
+    
+}
+
+
+
+.artical .img1 img{
+   width: 45%;
+font: left;
+overflow: hidden;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

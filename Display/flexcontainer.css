@@ -1,0 +1,38 @@
+
+
+
+
+
+.container{
+    display: flex;
+    background-color: lightgray;
+}
+
+.card{
+    color: white;
+    background-color: dodgerblue;
+    width: 100px;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

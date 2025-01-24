@@ -1,0 +1,110 @@
+ .header h1{
+    text-align: center;
+    background-color: rgb(245, 215, 67);
+    padding: 20px;
+    width: 220px;
+    margin-bottom: 0;
+    height: 20px;
+
+
+
+
+}
+*{
+    margin: 0;
+}
+
+ .p p{
+    background-color: rgb(202, 226, 248);
+    width: 240px;
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+    margin-top: 0;
+    padding: 10px;
+    
+
+}
+
+.Venus h1{
+    background-color: rgb(236, 134, 9);
+    width: 329px;
+    padding: 5px;
+    margin-bottom: 0;
+}
+
+.para p{
+    background-color: rgb(234, 181, 150);
+    width: 310px;
+    padding: 15px;
+    margin-top: 0;
+}
+
+/* .Amazing .title {
+    background-color:rgb(245, 215, 67);
+    text-align: center;
+    width: 230px;
+}
+
+.Amazing .para1{
+    background-color: rgb(202, 226, 248);
+    text-align: center;
+    border-radius: 0 0 15px 15px;
+  
+    width: 230px;
+    
+} */
+
+.amazing{
+    width: 300px;
+    background-color: rgb(196, 157, 157);
+    text-align: center;
+    border-radius: 0px 0px 15px 15px ;
+    margin-bottom: 20px;
+}
+
+
+.amazing .title{
+    background-color: orange;
+    padding: 5px 0px ;
+}
+ .amazing .para1{
+    background-color: #840c0c;
+    padding-top: 50px;
+    
+ }
+
+
+
+
+ .pulse{
+    text-align: center;
+    width: 330px;
+    background-color: #db1818;
+    box-shadow:#110909 4px 10px;
+    
+ }
+
+
+ .pulse .title1 h1{
+    background-color: rgb(247, 156, 10);padding: 10px ;
+ }
+
+.pulse .para2 p{
+  background-color: #9180d5;
+  padding: 15px 0px;
+    
+}
+
+ .pulse .img img{
+    width: 100%;
+    clip-path: circle(30%);
+    padding: 30px 0px;
+
+}
+
+
+/* ::shadow
+shape
+objet fit */
+
+

@@ -1,0 +1,51 @@
+
+
+.header{
+    background-color: #c0b3b3;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 2px;
+    width: 100%
+}
+.main{
+    width: 100%;
+}
+
+
+.main .leftmenu{
+    width: 20%;
+    
+    padding: 120px 0;
+    background-color: #544848;
+    text-align: center;
+    margin-right: 2px;
+    float: left;
+  
+    
+}
+.main .leftmenu h1{
+    color: #e7f24b;
+}
+
+.main .mainContent{
+    width: 60%;
+  
+    background-color: #da5b5b;
+    text-align: center;
+    padding: 120px 0;
+    display: none;
+    
+}
+
+
+.main .rightAd{
+    width:20% ;
+  
+    background-color: #3f1d1d;
+    padding: 120px 0;
+    text-align: center;
+    margin-left: 2px;
+    float: right;
+    
+}
+

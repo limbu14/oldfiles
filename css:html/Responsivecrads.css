@@ -1,0 +1,63 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+}
+.container{
+    margin: 30px 30px;
+    text-align: center;
+    background-color: #be6464;
+    display: flex;
+    
+}
+
+
+
+
+
+.card{
+    
+    width: 300px;
+    background-color: lightgrey;
+   border: 1px solid;
+   margin: 10px 10px;
+}
+
+
+.title{
+    color: red;
+    font-family: sans-serif;
+    padding: 5px;
+    
+}
+
+.para{
+    font-family: sans-serif;
+    font-size: 20px;
+    
+
+
+
+}
+
+.card img{
+    width: 90%;
+    margin: 10px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
